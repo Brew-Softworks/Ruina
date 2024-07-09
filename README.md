@@ -1,0 +1,2 @@
+# Ruina
+Discord Nuking Utility
