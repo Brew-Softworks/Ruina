@@ -1,0 +1,9 @@
+[ Ruina_Settings ]
+Token = ""
+Threads = 5
+Proxies = []
+
+channelNames = ['test']
+roleNames = ['test']
+webhookNames = ['discord.gg/subdomain']
+Messages = ['# @everyone test']
